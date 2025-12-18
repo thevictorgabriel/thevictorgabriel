@@ -7,8 +7,6 @@
 - 📱 Estudando desenvolvimento mobile com **Flutter**
 - 🤝 Aberto a colaborações em projetos **Front-end**
 
-<br>
-
 ### 🛠️ Linguagens e Tecnologias
 
 <div align="center">
@@ -26,15 +24,12 @@
 
 </div>
 
-<br>
-
 ### 📊 Status do GitHub
 
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=thevictorgabriel&show_icons=true&rank_icon=github&theme=buefy&border_radius=25&icon_color=F96815" /> 
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=thevictorgabriel&show_icons=true&rank_icon=github&theme=chartreuse-dark&border_radius=25" /> 
 
-  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictorgabriel&layout=compact&theme=buefy&border_radius=25" />
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictorgabriel&layout=compact&theme=chartreuse-dark&border_radius=25" />
 
-<br>
 
 ### 📫 Contato
 
