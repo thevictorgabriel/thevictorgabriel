@@ -30,9 +30,9 @@
 
 ### 📊 Status do GitHub
 
-<div style="display: inline_block">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=thevictorgabriel&show_icons=true&rank_icon=github&theme=buefy&border_radius=25&icon_color=F96815" /> <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictorgabriel&layout=compact&theme=buefy&border_radius=25" />
-</div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=thevictorgabriel&show_icons=true&rank_icon=github&theme=buefy&border_radius=25&icon_color=F96815" /> 
+
+  <img  height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevictorgabriel&layout=compact&theme=buefy&border_radius=25" />
 
 <br>
 
