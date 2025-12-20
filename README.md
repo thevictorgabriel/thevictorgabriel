@@ -3,7 +3,7 @@
 ###  Atualmente estou:
 
 - 💻 Focado no desenvolvimento de **Sistemas Web**
-- ⚙️ Aprofundando conhecimentos em **APIs REST** e arquitetura
+- ⚙️ Aprofundando conhecimentos em **APIs REST** e arquiteturas de software
 - 📱 Estudando desenvolvimento mobile com **Flutter**
 - 🤝 Aberto a colaborações em projetos **Front-end**
 
