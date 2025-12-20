@@ -1,6 +1,6 @@
-# Olá, eu sou Victor Gabriel 👋
+# Eu sou Victor Araújo 👋
 
-###  Sobre mim:
+###  Atualmente estou:
 
 - 💻 Focado no desenvolvimento de **Sistemas Web**
 - ⚙️ Aprofundando conhecimentos em **APIs REST** e arquitetura
