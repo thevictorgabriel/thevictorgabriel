@@ -1,4 +1,4 @@
-# Eu sou Victor Araújo 👋
+# Eu sou Victor Araújo ⭐
 
 ###  Atualmente estou:
 
